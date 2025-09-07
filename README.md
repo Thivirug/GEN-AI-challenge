@@ -1,6 +1,6 @@
 # GEN-AI Challenge: Diagnostic Code Mapping for Mechanic Notes
 
-## ! NOTE: Please follow this link (https://colab.research.google.com/drive/1Wc0lIwYP4UKFAy_j_o1MeeciK8M-t3eX#scrollTo=LLCAP-qxG2Qr) for the notebook as the committed ones throw an error. 
+## ! NOTE: Please follow this link ([https://colab.research.google.com/drive/1Wc0lIwYP4UKFAy_j_o1MeeciK8M-t3eX#scrollTo=LLCAP-qxG2Qr](https://colab.research.google.com/drive/1Wc0lIwYP4UKFAy_j_o1MeeciK8M-t3eX?usp=sharing)) for the notebook as the committed ones throw an error. 
 
 ## Context & Objective
 
