@@ -1,5 +1,7 @@
 # GEN-AI Challenge: Diagnostic Code Mapping for Mechanic Notes
 
+## ! NOTE: Please follow this link (https://colab.research.google.com/drive/1Wc0lIwYP4UKFAy_j_o1MeeciK8M-t3eX#scrollTo=LLCAP-qxG2Qr) for the notebook as the committed ones throw an error. 
+
 ## Context & Objective
 
 This repository contains my technical solution to the GenAI-powered tool challenge: mapping free-text mechanic descriptions to the correct automotive diagnostic codes (DTCs). The goal is to help mechanics quickly identify the most relevant codes based on their notes, using only provided resources (dictionary.json and sample_data.json) without any LLM training or finetuning.
